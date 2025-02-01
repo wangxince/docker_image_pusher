@@ -9,3 +9,4 @@ qdrant/qdrant:v1.11.0
 ghcr.io/canner/wren-ui:0.19.1
 ghcr.io/canner/wren-ai-service:nightly
 xprobe/xinference:v1.2.1
+vllm/vllm-openai:v0.7.0
